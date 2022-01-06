@@ -1,6 +1,6 @@
 # Author: Jennifer Aguinaga
 # GitHub username: ja-penguin
-# Date: 1/5/2002
+# Date: 1/5/2022
 # Description: Asks the user for their favorite animal and then
 #              prints out that that is their favorite animal
 
